@@ -1,7 +1,11 @@
 # Distracted-Driver-Detection
 
+Project Blog Link :
+https://akhil20107.medium.com/distracted-driver-detection-using-machine-and-deep-learning-techniques-1ba7e7ce0225
+
 ## Project Overview
 
+Team size : 3
 This project is done as a part of `Machine Learning` Course.
 
 Driving a car is a complex task, and it requires complete attention. Distracted driving is any activity that takes away the driver’s attention from the road. Approximately 1.35 million people die each year as a result of road traffic crashes.
